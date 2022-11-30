@@ -1,1 +1,1 @@
-# AdoExample
+# Szoftvertechnikák Adatkezelés labor megoldása
